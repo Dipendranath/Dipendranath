@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ... Algebraic Geometry
+- 🌱 I’m currently learning ... Commutative Algebra
+- 👯 I’m looking to collaborate on ... Commutative Algebra
+- 🤔 I’m looking for help with ... learn coding
+- 💬 Ask me about ... Mathematics (Pure)
+- 📫 How to reach me: ... [Dipendranath Mahato](dipendranthmahato.com)
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... I love singing.
 <!--
 **Dipendranath/Dipendranath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
